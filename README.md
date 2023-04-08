@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swati Negi</h1>
 <h3 align="center">A passionate Learner</h3>
 
+<img src="https://github.com/Swatinegi217/Swatinegi217/blob/main/my.gif" >
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swatinegi217" alt="swatinegi217" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
